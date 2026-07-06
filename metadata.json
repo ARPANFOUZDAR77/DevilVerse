@@ -1,0 +1,6 @@
+{
+  "name": "DevilVerse",
+  "description": "Premium interactive developer showcase website for Arpan (aka Devil) featuring immersive visual art, physics animations, custom terminal, interactive design galleries, and custom visual playground.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
